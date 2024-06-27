@@ -1,0 +1,41 @@
+MACHINE LEARNING >> DATA SCIENCE >> DATA ANALYST
+power bi
+------PYTHON----
+BASIC TO ADVANCE 
+PANDA
+NUMPY
+matplotlib
+SEABOM
+----------------
+---Data Science---
+----Basic----
+0-DSA
+1-Statics 
+2-Linear Algebra 
+3-Calculas
+4-Probability
+5-Normal Distribution
+6-Data Visualization (use matplotlib, sebum, excel)-(power BI--TABULAR)
+7-Maachine Learning (1-supervised 2-unsupervised 3-semi-supervised 4-reinforcement learning)
+PYTORCH 
+TENSERFLOW
+8-DATABASE--
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+---MACHINE LEARNING---
+Libraries to Learn:
+NumPy: For numerical computations.
+Pandas: For data manipulation and analysis.
+Matplotlib and Seaborn: For data visualization.
+Scikit-learn: For implementing basic machine learning algorithms.
+TensorFlow and Keras or PyTorch: For deep learning.SEABOM
+KERAS 
+pytrch
+
+ 1-supervised
+ 2-unsupervised 
+ 3-semi-supervised 
+ 4-REINFROCEMENT 
+
